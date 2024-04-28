@@ -1,0 +1,5 @@
+rootProject.name = 'idempotency'
+include 'client'
+include 'client'
+include 'client'
+
